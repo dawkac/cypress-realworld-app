@@ -7,3 +7,4 @@ workflows:
   e2e-test:
     jobs:
       - cypress/run
+        yarn: true
